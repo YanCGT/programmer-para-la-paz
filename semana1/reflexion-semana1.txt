@@ -1,0 +1,3 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+bueno, git como herramienta nos sirve como ciudadanos digitales porque nos ayuda a llevar un seguimiento constante, con esto en mente funciona para guardar y seguir la información sircundante en la red, y prevenir que esta información sea mal utilizada
