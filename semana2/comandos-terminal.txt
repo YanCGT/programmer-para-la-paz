@@ -1,0 +1,9 @@
+comandos utilizados durante la actividad
+de la semana 2: 
+
+mkdir
+cd
+echo
+Notepad
+git add .
+git commit -m
