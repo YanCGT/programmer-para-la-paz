@@ -1,0 +1,11 @@
+Ruta: http://localhost:3000
+
+Muestra el mensaje "Servidor de yan gracia activo".
+
+Ruta: http://localhost:3000/saludo
+
+Muestra el mensaje "Hola a toda nuestra querida comunidad".
+
+Ruta: http://localhost:3000/mensaje/"nombre"
+
+Muestra el mensaje "Hola + nombre", el nombre cambia dependiendo del que se escriba en la URL.

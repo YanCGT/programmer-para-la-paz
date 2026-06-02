@@ -1,0 +1,12 @@
+Las APIs son herramientas que permiten la comunicación entre diferentes 
+aplicaciones y sistemas de manera organizada. Gracias a ellas, la información 
+puede compartirse de forma rápida y automática sin necesidad de intervención 
+manual. 
+En una comunidad, las APIs pueden utilizarse para enviar reportes, alertas
+o solicitudes a una plataforma centralizada. También facilitan que diferentes
+aplicaciones trabajen juntas y accedan a los mismos datos actualizados. 
+Esto mejora la coordinación y la comunicación entre ciudadanos y organizaciones.
+Además, ayudan a reducir errores al automatizar el intercambio de información.
+Las APIs permiten desarrollar soluciones más eficientes y escalables.
+Por estas razones, son fundamentales para compartir información de manera 
+segura y organizada entre personas y sistemas.
