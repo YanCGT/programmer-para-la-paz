@@ -1,0 +1,7 @@
+La ruta POST /reportes permite registrar nuevos reportes enviados por los 
+usuarios. Cada reporte recibe un identificador automático y se almacena en un
+arreglo en memoria. Cuando se consulta la ruta GET /reportes, el servidor 
+devuelve la lista completa de reportes registrados hasta ese momento. 
+De esta manera es posible visualizar toda la información que ha sido almacenada
+mientras el servidor permanece en ejecución.
+las pruebas fueron realizadas con la herramienta postman

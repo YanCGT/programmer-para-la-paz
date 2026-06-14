@@ -1,0 +1,21 @@
+{
+        "id": 1,
+        "tipo": "Infraestructura",
+        "descripcion": "Daño en alumbrado público"
+    },
+    {
+        "id": 2,
+        "tipo": "Infraestructura",
+        "descripcion": "Daño en la tuberia principal "
+    },
+    {
+        "id": 3,
+        "tipo": "vial",
+        "descripcion": "en la carretera principal, en la entrada del carmen hay muchos huecos, es un peligro para las personas y se ve mu mal esteticamente "
+    },
+    {
+        "id": 4,
+        "tipo": "Ambiental",
+        "descripcion": "en el barrio, 'kilometro 1' se ha vuelto un vertedero de basura"
+    }
+]
