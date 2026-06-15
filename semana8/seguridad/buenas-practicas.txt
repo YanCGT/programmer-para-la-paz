@@ -1,0 +1,5 @@
+1° encriptación de contraseñas
+2° hacer un sofware escalable
+3° escribir codigo limpio, para que cualquiera pueda entenderlo,
+esto se puede hacer mediante el uso de nombres descriptivos.
+4° mantener el control de versiones con git

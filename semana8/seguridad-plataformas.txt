@@ -1,0 +1,4 @@
+1° utilización de tokens para seguridad
+2° no compartir esos tokens
+3° reforzar la seguridad al no incluir las contraseñas planas en las BBDD
+4° uso de conexiones seguras (https)
