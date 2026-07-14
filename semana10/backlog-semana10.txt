@@ -1,0 +1,9 @@
+como administrador quiero crear un rol de ususario que se encargue de hacer los reportes
+
+como secretario quierio editar un reporte
+
+como secretario quiero actualizar el estado de un caso e informar de su avance
+
+como como administrador quiero que no todos los roles tengan las mismas responsabilidades
+
+como veedor quiero reportar irregularidades en el seguimiento de un caso

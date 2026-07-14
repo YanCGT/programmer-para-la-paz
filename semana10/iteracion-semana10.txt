@@ -1,0 +1,15 @@
+¿Qué 2 tareas del backlog harías primero?
+1 especificacion de roles
+2 consultas y actualizacion de los reportes de los casos
+
+¿Por qué son las más importantes?
+Son las más importantes porque sin ellas no sería posible registrar ni revisar
+la información de la comunidad.
+
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Ha sido probada.
+- hay respuesta del sistema

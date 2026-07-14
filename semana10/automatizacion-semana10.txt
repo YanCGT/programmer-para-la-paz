@@ -1,0 +1,14 @@
+Evento que activa el flujo:
+administrador crea secretario
+Secretario registra un nuevo reporte en la plataforma.
+
+
+Acción:
+n8n envía una notificación a un grupo de Telegram.
+
+Mensaje:
+"Hay un nuevo reporte. veedor, revisar la plataforma para más detalles."
+
+Información que no debe enviarse:
+informscion sensible (Nombres, documentos de identidad, direccion, teléfonos, contraseñas ni otros datos personales.)
+tokens ni llaves de seguridad
