@@ -1,0 +1,23 @@
+Entidad: Peticion
+
+Campos principales:
+- id
+- asunto
+- descripcion
+- fecha_creacion
+- estado
+
+Propósito:
+Almacenar la información de cada petición creada por la comunidad y llevar el control de su estado.
+
+
+Entidad: Participante
+
+Campos principales:
+- id
+- peticion_id
+- alias
+- fecha_apoyo
+
+Propósito:
+Registrar las personas que apoyan una petición y contabilizar la participación sin exponer información sensible.

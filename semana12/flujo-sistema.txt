@@ -1,0 +1,5 @@
+1. Un usuario ingresa a la plataforma y registra una nueva petición comunitaria.
+2. El sistema verifica que la información esté completa y la almacena en la base de datos.
+3. La petición se publica para que otros miembros de la comunidad puedan conocerla.
+4. Los ciudadanos interesados apoyan la petición y el sistema actualiza automáticamente el número de apoyos.
+5. Cuando la petición alcanza el objetivo establecido, se genera un documento con el resumen de la información para presentarlo a la entidad correspondiente.

@@ -1,0 +1,9 @@
+Durante este curso comprendí que la tecnología puede ser una herramienta para
+facilitar la participación ciudadana y mejorar la organización de las comunidades.
+Aprendí conceptos sobre desarrollo de aplicaciones, uso de bases de datos, APIs y
+control de versiones con Git. También entendí la importancia de proteger la
+información de los usuarios y aplicar buenas prácticas de seguridad. Además,
+conocí herramientas de automatización que ayudan a optimizar tareas y mantener
+una mejor comunicación entre los participantes. Todos estos conocimientos
+permiten desarrollar soluciones digitales más organizadas, útiles y seguras 
+para la comunidad.

@@ -1,0 +1,8 @@
+Evento:
+Una petición alcanza la cantidad mínima de apoyos establecida.
+
+Mensaje:
+"La petición ha alcanzado el número de apoyos requerido. Revise la plataforma para continuar con el proceso."
+
+Información que no debe enviarse:
+Nombres completos de los participantes, documentos de identidad, correos electrónicos, números de teléfono ni cualquier otro dato privado.
